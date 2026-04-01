@@ -1,0 +1,1 @@
+The purpose of the lab is to test setting up juptyer and the right folder structure and setting it up in git
