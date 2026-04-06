@@ -1,1 +1,3 @@
-The purpose of the lab is to test setting up juptyer and the right folder structure and setting it up in git
+# Core Python Syntax Lab
+
+This project demonstrates assigning variables and multiplying them, running conditional logic and if statements on the output and running a loop exercise to test out the concepts from last class.
